@@ -1,0 +1,10 @@
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NestedLoopsTivaR\NestedLoopsTivaR\bin\Debug\NestedLoopsTivaR.exe.config
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NestedLoopsTivaR\NestedLoopsTivaR\bin\Debug\NestedLoopsTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NestedLoopsTivaR\NestedLoopsTivaR\bin\Debug\NestedLoopsTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NestedLoopsTivaR\NestedLoopsTivaR\obj\Debug\NestedLoopsTivaR.csprojResolveAssemblyReference.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NestedLoopsTivaR\NestedLoopsTivaR\obj\Debug\NestedLoopsTivaR.frmNestedLoops.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NestedLoopsTivaR\NestedLoopsTivaR\obj\Debug\NestedLoopsTivaR.Properties.Resources.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NestedLoopsTivaR\NestedLoopsTivaR\obj\Debug\NestedLoopsTivaR.csproj.GenerateResource.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NestedLoopsTivaR\NestedLoopsTivaR\obj\Debug\NestedLoopsTivaR.csproj.CoreCompileInputs.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NestedLoopsTivaR\NestedLoopsTivaR\obj\Debug\NestedLoopsTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\NestedLoopsTivaR\NestedLoopsTivaR\obj\Debug\NestedLoopsTivaR.pdb
